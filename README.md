@@ -1,6 +1,8 @@
-# Hi 👋, I'm Muhammad Hasnain
+<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
 
-A passionate **Cyber Security undergraduate** with strong skills in **AI-powered application development**, **web development**, and **data analysis**. Experienced in Python, C++, React, and database management. Skilled in building scalable, secure, and responsive applications.
+<p align="center">
+A passionate <b>Cyber Security undergraduate</b> with strong skills in <b>AI-powered application development</b>, <b>web development</b>, and <b>data analysis</b>. Experienced in Python, C++, React, and database management. Skilled in building scalable, secure, and responsive applications.
+</p>
 
 - 📧 How to reach me: hasnainmemon02@outlook.com  
 - 🌐 My Portfolio: [Portfolio Website](https://hasnainportfolio.vercel.app/)  
@@ -10,9 +12,11 @@ A passionate **Cyber Security undergraduate** with strong skills in **AI-powered
 ---
 
 ### Connect with me:
+<p align="left">
 <a href="https://www.linkedin.com/in/muhammad-hasnain-61b4aa379/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
 </a>
+</p>
 
 ---
 
