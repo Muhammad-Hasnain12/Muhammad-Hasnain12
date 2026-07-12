@@ -4,7 +4,7 @@
 ---
 
 ### 📫 How to reach me:
-- **Email:** hasnainmemon02@outlook.com  
+- **Email:** muhammadhasnainsaleem02@gmail.com 
 - **Portfolio:** [Portfolio Website](https://hasnainportfolio.vercel.app/)  
 - **GitHub:** [Muhammad-Hasnain12](https://github.com/Muhammad-Hasnain12)  
 - **LinkedIn:** [Muhammad Hasnain](https://www.linkedin.com/in/muhammad-hasnain-61b4aa379/)  
